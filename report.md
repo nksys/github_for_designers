@@ -21,7 +21,7 @@ GitHub社のデザイナーによるセッションでした。
   - コードには曖昧なところがないから
   - GitHubのユーザーが見るのはコードだから
 
-Pull Request[^1]によるデザインプロセスを利用する
+####Pull Request[^1]によるデザインプロセスを利用する
 
 - Why?
   - 自分のペースで働くことができるから
@@ -30,7 +30,7 @@ Pull Request[^1]によるデザインプロセスを利用する
 
 [^1]: Backlogのタスクのようなものです
 
-Pull Request help settle arguments.
+####Pull Request help settle arguments.
 (Pull Requestは争点を解決する)
 
 - Why?
@@ -39,7 +39,7 @@ Pull Request help settle arguments.
   - 他人からのフィードバックで、予想していなかった観点などがもたらされる
   - その結果、どちらの方向へ進むべきかを決定しやすくなる
 
-Design happens in browsers.
+####Design happens in browsers.
 (デザインはブラウザで起こる)
 
 - Why?
@@ -51,7 +51,7 @@ Design happens in browsers.
   - ブラウザ内で行うデザインは現実そのもの
   - ブラウザ内でデザインするアプローチは、効率を高める効果があることがGitHub社では実証されている
 
-Design it once, not twice.
+####Design it once, not twice.
 (設計[^2]は1度だけ、2度はしない)
 
 - Why?
@@ -63,27 +63,27 @@ Design it once, not twice.
 
 [^2]: 主にWebコンテンツの設計を指していると思われます
 
-デザインには本当のデータが必要
+####デザインには本当のデータが必要
 
 - Why?
   - 正しいデザインは本当のデータが無ければ作り上げられない
   - チームが「同じデザイン」「同じ画面」「同じ機能」を見て議論できることが重要
 
-Dogfooding is powerful, but it has it's limits.
+####Dogfooding is powerful, but it has it's limits.
 (自分で自分のプロダクトをテストするのは、強力だが限界もある)
 
 - Why?
   - 自分が機能を知りすぎているため、有効なアイデアが出しにくい
   - そのような場合は、直接エンドユーザーと話して声を聞き、フィードバックをもらう
 
-Design happens with feedback.
+####Design happens with feedback.
 (フィードバックがあってこそデザインは起こる)
 
 - フィードバックには2つの種類がある
   0. 自分たちが自分たちのプロダクトを使う
   0. エンドユーザーからサポートへ問い合わせがある
 
-Design is everyone's responsibility
+####Design is everyone's responsibility
 (デザインはみんなの責任)
 
 - Why?
@@ -96,7 +96,7 @@ Design is everyone's responsibility
     - プロダクトに直接関わっていない人よりも、直接関わっている人のフィードバックを重視する
     - 受け入れないフィードバックは、優しく、かつ、はっきりと伝える
 
-Design should be an open process.
+####Design should be an open process.
 (デザインは透明なプロセスであるべき)
 
 - Why?
@@ -110,7 +110,7 @@ Design should be an open process.
 [^3]: エンジニアも得てして同じです
 [^4]: エンジニアも得てして同じです
 
-Open design means showing work early.
+####Open design means showing work early.
 (早い段階でデザインを公開する必要がある)
 
 - Why?
@@ -121,7 +121,7 @@ Open design means showing work early.
   - 途中でひどく混沌としている状況だと感じても、その状態で共有することを常に求めるべき
   - 最初は抵抗があるが、チームメイトは貴方が人間であることを理解している
 
-Open design means articulating design decisions.
+####Open design means articulating design decisions.
 (デザインに至る意思決定を明確に表現できる必要がある)
 
 - Why?
@@ -130,7 +130,7 @@ Open design means articulating design decisions.
   - 全く共有しないままデザインを進めると、意思決定の理由がわからないとチームの雰囲気が微妙になる
   - その結果、低品質なプロダクトができあがる
 
-Open design means sacrificing your pride.
+####Open design means sacrificing your pride.
 (自分のプライドを捨てる必要がある)
 
 - Why?
@@ -138,7 +138,7 @@ Open design means sacrificing your pride.
   - 作業プロセスをオープンにするときには、自分への批判ではなくプロダクトへのフィードバックだと理解する
   - チームメイトを信じる
 
-Open design means being respectful.
+####Open design means being respectful.
 (フィードバックを言う時に相手を尊重する必要がある)
 
 - Why?
